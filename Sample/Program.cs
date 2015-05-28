@@ -8,6 +8,7 @@ namespace Sample
         {
             //var s = new Antlr4.Runtime.AntlrInputStream("Test");
             var j = new JObject();
+            Shared.Test.Do();
         }
     }
 }
